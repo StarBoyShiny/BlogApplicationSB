@@ -107,21 +107,6 @@ java -jar target/blog-application-0.0.1-SNAPSHOT.jar
 
 The application will start on `http://localhost:8080`
 
-## 📚 API Documentation
-
-Once the application is running, access the API documentation at:
-
-```
-http://localhost:8080/swagger-ui.html
-```
-
-## 🔐 Default Admin Credentials
-
-```
-Username: admin@blog.com
-Password: admin123
-```
-
 ⚠️ **Important:** Change these credentials immediately after first login!
 
 ## 📡 API Endpoints
