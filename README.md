@@ -11,37 +11,25 @@ A full-featured blog application built with Spring Boot, providing a robust plat
 
 - **Blog Post Management**
   - Create, read, update, and delete blog posts
-  - Rich text editor support
-  - Image upload and management
-  - Draft and publish functionality
 
 - **Category & Tag System**
   - Organize posts by categories
   - Tag-based content discovery
   - Category and tag management
 
-- **Comments System**
-  - Comment on blog posts
-  - Nested comments/replies
-  - Comment moderation
-
 - **Search Functionality**
   - Search posts by title, content, or tags
-  - Advanced filtering options
 
 - **User Profile Management**
   - Profile information update
-  - Avatar upload
-  - View user's posts
 
 ## 🛠️ Tech Stack
 
-- **Backend Framework:** Spring Boot 3.x
-- **Database:** MySQL / PostgreSQL
+- **Backend Framework:** Spring Boot 
+- **Database:** MySQL
 - **Security:** Spring Security with JWT
 - **ORM:** Hibernate / JPA
 - **Build Tool:** Maven
-- **API Documentation:** Swagger / SpringDoc OpenAPI
 
 ## 📋 Prerequisites
 
@@ -177,10 +165,4 @@ BlogApplicationSB/
 - Hibernate ORM
 - MySQL Community
 
-## 📧 Contact
 
-For any queries or support, please open an issue in the repository.
-
----
-
-⭐ If you found this project helpful, please give it a star!
